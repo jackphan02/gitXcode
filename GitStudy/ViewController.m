@@ -21,6 +21,7 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+    // Step01 to work with git
     // Dispose of any resources that can be recreated.
 }
 
